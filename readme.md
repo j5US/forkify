@@ -1,3 +1,3 @@
 # Forkify
 
-## Created using vanila javascipt and parcel module bundler
+Created using vanila javascipt and parcel module bundler
